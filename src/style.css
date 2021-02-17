@@ -1,0 +1,17 @@
+.controls {
+    display: flex;
+    justify-content: space-between;
+    width: 187px;
+}
+
+#playButton {
+    display: block;
+}
+
+#pauseButton {
+    display: none;
+}
+
+#timer {
+    display: none;
+}
